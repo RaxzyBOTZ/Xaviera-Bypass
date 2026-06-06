@@ -13,7 +13,7 @@
         keyFile: "https://raw.githubusercontent.com/RaxzyBOTZ/Xaviera-Bypass/main/key.txt",
         redirectFile: "https://raw.githubusercontent.com/RaxzyBOTZ/Xaviera-Bypass/main/Zerr.txt",
         telegramFile: "https://raw.githubusercontent.com/RaxzyBOTZ/Xaviera-Bypass/main/button.txt",
-        musicFile: "https://raw.githubusercontent.com/zxidesert/Music-/main/auraxzxi.mp3",
+        musicFile: "https://raw.githubusercontent.com/RaxzyBOTZ/Xaviera-Bypass/main/music.txt",
         updateCheck: "https://raw.githubusercontent.com/RaxzyBOTZ/Xaviera-Bypass/main/update.txt",
         modalStyle: "position:fixed;top:50%;left:50%;transform:translate(-50%,-50%);background:rgba(6,10,23,0.95);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);color:#fff;padding:30px 25px;border-radius:16px;z-index:2147483647;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;text-align:center;box-shadow:0 20px 50px rgba(0,0,0,0.6);border:2px solid #00ffcc;width:300px;box-sizing:border-box;animation: zxi-lightning-glow 3s linear infinite;"
     };
